@@ -1,29 +1,29 @@
 {
-  "appName": "BasicTabApp",
-  "projectId": "6680836f-ad4e-4377-a0ca-6603b71b8887",
-  "version": "2.1.0",
-  "isFromSample": false,
-  "solutionSettings": {
-    "name": "fx-solution-azure",
-    "version": "1.0.0",
-    "hostType": "Azure",
-    "azureResources": [],
-    "capabilities": [
-      "Tab"
-    ],
-    "activeResourcePlugins": [
-      "fx-resource-frontend-hosting",
-      "fx-resource-identity",
-      "fx-resource-aad-app-for-teams",
-      "fx-resource-local-debug",
-      "fx-resource-appstudio",
-      "fx-resource-cicd",
-      "fx-resource-api-connector"
-    ]
-  },
-  "programmingLanguage": "csharp",
-  "pluginSettings": {
-    "projectFilePath": "D:\\src\\github\\BasicTeamsApp\\BasicTabApp\\BasicTabApp.csproj"
-  },
-  "isFirstTimeOpenProject": false
+    "appName": "BasicTabApp",
+    "projectId": "6680836f-ad4e-4377-a0ca-6603b71b8887",
+    "version": "2.1.0",
+    "isFromSample": false,
+    "solutionSettings": {
+        "name": "fx-solution-azure",
+        "version": "1.0.0",
+        "hostType": "Azure",
+        "azureResources": [],
+        "capabilities": [
+            "Tab"
+        ],
+        "activeResourcePlugins": [
+            "fx-resource-frontend-hosting",
+            "fx-resource-identity",
+            "fx-resource-aad-app-for-teams",
+            "fx-resource-local-debug",
+            "fx-resource-appstudio",
+            "fx-resource-cicd",
+            "fx-resource-api-connector"
+        ]
+    },
+    "programmingLanguage": "csharp",
+    "pluginSettings": {
+        "projectFilePath": "D:\\src\\github\\BasicTeamsApp\\BasicTabApp\\BasicTabApp.csproj"
+    },
+    "isFirstTimeOpenProject": false
 }
